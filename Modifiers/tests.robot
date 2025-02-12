@@ -13,3 +13,7 @@ Fourth and failing
 
 Fifth
     No Operation
+    GROUP    Hello
+        Log    xxx
+        Log    yyy
+    END
